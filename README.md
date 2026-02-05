@@ -6,7 +6,7 @@ Este projeto atua como o **Módulo de Visualização** de um pipeline de dados c
 
 Este sistema foi projetado para ler dados gerados pelo **Módulo de Ingestão**. Para que este visualizador funcione, você precisa ter o banco de dados populado pelo projeto de consulta:
 
-👉 **[Acesse o Gerador de Dados Climáticos AQUI]([COLE_O_LINK_DO_OUTRO_PROJETO_AQUI])**
+👉 **[Acesse o Gerador de Dados Climáticos AQUI]([])**
 
 *O fluxo de dados funciona assim:*
 1. **Consultor (Outro Repo):** Consome API -> Salva no SQLite.
